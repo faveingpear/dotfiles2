@@ -1,0 +1,11 @@
+configuration {
+
+	width: 25;
+	show-icons: true;
+	icon-theme: "papirus";
+	lines: 10;
+	fake-transparency: true;
+	sidebar-mode: true;
+	
+}
+@import "~/.cache/wal/colors-rofi-dark"
